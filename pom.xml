@@ -18,6 +18,7 @@
         <module>vertx-jersey-metrics</module>
         <module>examples</module>
         <module>features/vertx-jersey-swagger</module>
+        <module>features/vertx-jersey-jackson</module>
     </modules>
 
     <properties>
